@@ -19,7 +19,7 @@ Together for victory :)
 
 - [3D MAKERS AGAINST CORONAVIRUS](#3d-makers-against-coronavirus)
 - [ANTI FAKE NEWS](#anti-fake-news)
-- [BLOCKLISTS & IOC PHISHING COVID-19](#blocklists--ioc-phishing-covid-19)
+- [BLOCKLISTS & IOC PHISHING COVID-19](#blocklists--ioc-phishing-covid-19) 
 - [BLOGS & NEWS](#blogs--news)
 - [COVID-19 INITIATIVES](#covid-19-initiatives)
 - [FREE SERVICES ON CONFINEMENT TIME](#free-services-on-confinement-time)
